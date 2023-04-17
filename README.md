@@ -1,8 +1,6 @@
 ## Hey 👋, This is Annabelle Petrichor
 [![Gmail Badge](https://img.shields.io/badge/-anipetrichor@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anipetrichor@gmail.com)](mailto:anipetrichor@gmail.com) 
-<br>
-[![Linkedin Badge](https://img.shields.io/badge/-Annabelle Petrichor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Annabelle Petrichor/)](https://www.linkedin.com/in/ani-petrichor/) 
-<br>
+[![Linkedin Badge](https://img.shields.io/badge/-anipetrichor-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anipetrichor/)](https://www.linkedin.com/in/anipetrichor/) 
 [![Github Badge](https://img.shields.io/badge/-anipetrichor-grey?style=flat&logo=github&logoColor=white&link=https://github.com/anipetrichor/)](https://www.github.com/anipetrichor/) 
 
 <p align='left'>Data Analyst with 1.5 years of experience and 3+ years of experience in operations and logistics related fields. Past career focuses have included sustainability, e-commerce, and local food systems. 
@@ -15,4 +13,5 @@ I have a keen eye for detail and strong communication skills honed over years of
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=anipetrichor&show_icons=true&include_all_commits=true)](https://github.com/anipetrichor/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anipetrichor&layout=compact)](https://github.com/anipetrichor/github-readme-stats)
+
 
