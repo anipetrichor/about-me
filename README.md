@@ -16,6 +16,8 @@ I have a keen eye for detail and strong communication skills honed over years of
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=anipetrichor alt=anipetrichor /> </p>
